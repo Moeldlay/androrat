@@ -74,6 +74,4 @@ Use Notes
 * This is where you hardcode the listeners IP and Port. You can use an IP, or a domain name like a DNS.
 * On certain mobile devices, it drains the battery fast. Be aware of this.
 
-Note: I am not the author of this software, it is forked and slightly edited. I may make changes to it to fix bugs as I go along, but I am not a java programmer at heart, and only have this here for my own use in testing.
-
-
+Note: I am not the author of this software, it is forked and slightly edited. I may make changes to it to fix bugs as I go along, but I am not a java programmer at heart, and only have this here for my own use in testi 
